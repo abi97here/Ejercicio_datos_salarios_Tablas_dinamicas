@@ -22,4 +22,10 @@ Para cada consigna se creó una tabla dinámica independiente, donde se:
 • Herramientas utilizadas
 
 - Google Sheets  
-- Tablas dinám
+- Tablas dinámicas
+
+<< Aprendizaje >>
+
+Este proyecto permitió afianzar el uso de tablas dinámicas y mejorar la comprensión del análisis de datos a partir de un dataset real.
+
+*Proyecto realizado con fines prácticos y de aprendizaje.*
